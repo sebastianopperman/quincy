@@ -1,0 +1,16 @@
+:root {
+  --mine: #54585A;
+  --coal: #666666;
+  --metal: #797979;
+  --silver: #939598;
+  --offwhite: #F2F2F2;
+  --shell: #F7F7F7;
+  --alto: #F2F2F2;
+  --cement: #D8D8D8;
+  --concrete: #BAB6B0;
+  --fiery: #DA3B27;
+  --burn: #DC4405;
+  --ember: #FC4C02;
+  --gradient-gray: linear-gradient(to bottom, #E2E2E2, rgba(229,229,229, .6));
+  --gradient-red: linear-gradient(to bottom right, #DA3B27, #DA3B27 34% , #F26924);
+}
