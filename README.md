@@ -1,2 +1,2 @@
 # Quincy
-Quincy is a starter Shopify theme
+Static site with Webpack 4, PostCSS and handlebars
