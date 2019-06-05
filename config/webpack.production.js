@@ -8,6 +8,7 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const ImageminPlugin = require('imagemin-webpack-plugin').default;
 const UglifyWebpackPlugin = require('uglifyjs-webpack-plugin');
 
+// Templates
 const files = fs.readdirSync('./src/templates');
 const templates = [];
 files.forEach(file => {
