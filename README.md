@@ -1,2 +1,1 @@
 # Quincy
-Static site
