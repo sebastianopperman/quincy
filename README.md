@@ -1,4 +1,1 @@
 # Quincy
-
-
-Gonna remove
