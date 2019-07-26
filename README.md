@@ -1,3 +1,1 @@
 # Quincy
-
-Remove
